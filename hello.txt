@@ -1,2 +1,2 @@
-Hello Git this is from master!
+Hello Git this is from master and development!
 New Change 1 from master!
