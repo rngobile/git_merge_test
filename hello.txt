@@ -1,1 +1,2 @@
 Hello Git this is from master!
+New Change 1 from master!
